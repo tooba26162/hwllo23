@@ -1,0 +1,7 @@
+C:\Users\Pakistan Traders\source\repos\activity3\activity3\bin\Debug\activity3.exe.config
+C:\Users\Pakistan Traders\source\repos\activity3\activity3\bin\Debug\activity3.exe
+C:\Users\Pakistan Traders\source\repos\activity3\activity3\bin\Debug\activity3.pdb
+C:\Users\Pakistan Traders\source\repos\activity3\activity3\obj\Debug\activity3.csproj.AssemblyReference.cache
+C:\Users\Pakistan Traders\source\repos\activity3\activity3\obj\Debug\activity3.csproj.CoreCompileInputs.cache
+C:\Users\Pakistan Traders\source\repos\activity3\activity3\obj\Debug\activity3.exe
+C:\Users\Pakistan Traders\source\repos\activity3\activity3\obj\Debug\activity3.pdb
